@@ -1,5 +1,9 @@
 # 🚀 **Telegram File Explorer Bot** 🤖
-![logo](./images/logo.png)
+
+<p align="center">
+   <img src="images/logo.png" alt="logo" style="width:400px;"/>
+</p>
+
 Bem-vindo ao **Telegram File Explorer Bot**! 🌟 Este bot permite explorar, gerenciar e interagir com seus arquivos de maneira rápida e eficiente diretamente pelo Telegram. 🙌
 
 
@@ -124,20 +128,13 @@ Este bot é altamente personalizável! Você pode ajustar as configurações do 
 📱 **Entre em contato:**
 
 [Entre em contato clicando aqui](https://t.me/lalaio1) ou escaneie o QR code abaixo:  
-![1](./images/qrcode.png)
 
-🔗 **Repositório no GitHub:**
-
-- https://github.com/lalaio1/telegram-file-explorer
-
----
-
-Aqui está o tutorial compacto com emojis para torná-lo mais visual e interativo:
+<p align="center">
+   <img src="images/qrcode.png" alt="qrcode" style="width:200px;"/>
+</p>
 
 ---
 
 ## 💬 **Contribuições**
 
-Você pode contribuir para este projeto! Sinta-se à vontade para abrir uma *issue* ou fazer um *pull request* no repositório do GitHub.
-
-🔗 **Repositório**: [Telegram File Explorer no GitHub](https://github.com/lalaio1/telegram-file-explorer)
+Você pode contribuir para este projeto! Sinta-se à vontade para abrir uma *issue* ou fazer um *pull request*.
